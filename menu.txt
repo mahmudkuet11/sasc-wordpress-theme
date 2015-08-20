@@ -1,0 +1,48 @@
+									  <ul>
+											<li class="first"><a href="<?php echo get_site_url(); ?>">Home</a></li>
+											<li><a href="<?php echo get_site_url(); ?>/about-page">About</a></li>
+											<li><a href="<?php echo get_site_url(); ?>/teachers-2">Teachers</a></li>
+											<li><a href="#">Students</a>
+												<ul>
+													<li><a href="">Science</a></li>
+													<li><a href="">Commerce</a></li>
+													<li><a href="">Arts</a></li>
+												</ul>
+											</li>
+											<li><a href="">Academics</a>
+												<ul>
+													<li><a href="<?php echo get_site_url(); ?>/academic-calender">Academic Calender</a></li>
+													<li><a href="<?php echo get_site_url(); ?>/class-routine">Class Routine</a></li>
+												</ul>
+											</li>
+											<li><a href="static.html">Class Routine</a>
+												<ul>
+													<li><a href="">Science</a></li>
+													<li><a href="">Commerce</a></li>
+													<li><a href="">Arts</a></li>
+												</ul>
+											</li>
+											<li><a href="">Staff</a></li>
+											<li><a href="static.html">Academic</a>
+												<ul>
+													<li><a href="">Result</a></li>
+													<li><a href="">Admission</a></li>
+													<li><a href="">Calendar</a></li>
+													<li><a href="">Notice</a></li>
+												</ul>
+											</li>
+											<li><a href="">Panel</a>
+												<ul>
+													<li><a href="">Student's Panel</a></li>
+													<li><a href="">Teachers's Panel</a></li>
+													<li><a href="">Guardian's Panel</a></li>
+												</ul>
+											</li>
+											<li><a href="">Oters</a>
+												<ul>
+													<li><a href="">Photo Gallery</a></li>
+													<li><a href="">News</a></li>
+													<li><a href="">Library</a></li>
+												</ul>
+											</li>
+                                      </ul>	
